@@ -1,2 +1,2 @@
 # python-sqlite
-Little codes for SQlite database management
+Little codes for SQLite database management
