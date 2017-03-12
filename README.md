@@ -1,2 +1,2 @@
-# pythonbasics
-Little and small codes
+# python-sqlite
+Little codes for SQlite database management
